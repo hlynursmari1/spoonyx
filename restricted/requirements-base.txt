@@ -1,0 +1,5 @@
+django
+
+django-environ==0.4.3       # For local settings.
+
+ipython                     # To facilitate debugging.

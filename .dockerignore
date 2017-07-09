@@ -1,0 +1,9 @@
+# Docker files
+Dockerfile
+docker-compose.yml
+
+# Dev files
+db.sqlite3
+
+# System files
+.DS_Store

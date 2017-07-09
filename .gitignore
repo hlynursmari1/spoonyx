@@ -1,0 +1,8 @@
+*.pyc
+
+# Dev files
+db.sqlite3
+dev/node_modules/
+
+# System files
+.DS_Store
